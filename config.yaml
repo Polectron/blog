@@ -5,7 +5,10 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: Hi there 👋🏻
-    Content: My name is Daniel Rückert a.k.a polectron. M'm a data engineer at [Betterplace](https://betterplaceweb.com/)
+    Content: > 
+      - My name is Daniel Rückert a.k.a polectron. I'm a data engineer at [Betterplace](https://betterplaceweb.com/).
+      
+      - This blog will mostly be a collection of scripts and research I've made in the past so I can find them easily, which I hope will also be useful for others.
   cover:
     responsiveImages: true
     linkFullImages: false
