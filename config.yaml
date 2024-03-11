@@ -1,0 +1,25 @@
+baseURL: https://polectron.xyz/
+languageCode: en-us
+title: Polectron's Tech Blog
+theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: Hi there 👋🏻
+    Content: My name is Daniel Rückert a.k.a polectron. M'm a data engineer at [Betterplace](https://betterplaceweb.com/)
+  cover:
+    responsiveImages: true
+    linkFullImages: false
+# menu:
+#   main:
+#     - identifier: categories
+#       name: categories
+#       url: /categories/
+#       weight: 10
+#     - identifier: tags
+#       name: tags
+#       url: /tags/
+#       weight: 20
+#     - identifier: example
+#       name: example.org
+#       url: https://example.org
+#       weight: 30
