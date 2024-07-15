@@ -4,11 +4,11 @@ title: Polectron's Tech Blog
 theme: ["PaperMod"]
 params:
   homeInfoParams:
-    Title: Hi there 👋🏻
+    Title: Hi! 🐯
     Content: > 
-      - My name is Daniel Rückert a.k.a polectron. I'm a data engineer at [Betterplace](https://betterplaceweb.com/).
+      - My name is Daniel Rückert a.k.a polectron. I'm a backend engineer at [Plexigrid](https://plexigrid.com/).
       
-      - This blog will mostly be a collection of scripts and research I've made in the past so I can find them easily, which I hope will also be useful for others.
+      - This blog will primarily be a repository for scripts and research I've conducted, which I hope will also be useful to others.
   cover:
     responsiveImages: true
     linkFullImages: false
