@@ -3,15 +3,28 @@ languageCode: en-us
 title: Polectron's Tech Blog
 theme: ["PaperMod"]
 params:
+  mode: home
   homeInfoParams:
     Title: Hi! 🐯
     Content: > 
       - My name is Daniel Rückert a.k.a polectron. I'm a backend engineer at [Plexigrid](https://plexigrid.com/).
       
-      - This blog will primarily be a repository for scripts and research I've conducted, which I hope will also be useful to others.
+      - I write about tech, programming, and other stuff that i like.
   cover:
     responsiveImages: true
     linkFullImages: false
+  showFullContent: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  hidemeta: false
+  showtoc: false
+  tocopen: false
 # menu:
 #   main:
 #     - identifier: categories
