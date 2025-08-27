@@ -2,6 +2,11 @@
 title: "Devlog Inkspitter Week 1"
 date: 2025-08-27T22:29:42+02:00
 draft: false
+cover:
+    image: "images/screenshot.png"
+    alt: "Early screenshot of Inkspitter game showing blue player character, red enemies, and paintable terrain"
+    caption: "Current state of Inkspitter - paint to reveal terrain while avoiding enemies"
+    relative: true
 ---
 
 After a long time without making a game i had to calm the itch and start a new project!
